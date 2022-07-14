@@ -1,6 +1,6 @@
 #NoEnv
 
-Windows_Disk := A_WinDir
+Windows_Disk := A89E-DCF0
 
 {
     RegExMatch(Windows_Disk, "(.*)windows", Disk_7)
